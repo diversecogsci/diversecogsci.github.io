@@ -1,10 +1,10 @@
 This website hosts resources and content from the virtual discussion group held at the 2022 Meeting of the Cognitive Science Society, co-organized by [Abhilasha Kumar](http://abhilashak.weebly.com/) and [Charles Kemp](http://www.charleskemp.com/).
 
 ## Panelists
-<img src="blair.jpg" width="20%" height="20%"> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/blair-lehman-bb043b11" target="_blank">Blair Lehman</a><br>
-<img src="carlos.jpg" width="20%" height="20%"> &nbsp;&nbsp;<a href="http://www.carlosmontemayor.org/" target="_blank">Carlos Montemayor</a><br>
-<img src="aida.jpg" width="20%" height="20%"> &nbsp;&nbsp;<a href="http://www.aidanematzadeh.me/" target="_blank">Aida Nematzadeh</a><br>
-<img src="vishnu.jpg" width="20%" height="20%"> &nbsp;&nbsp;<a href="https://www.iiit.ac.in/people/faculty/Vishnusreekumar/" target="_blank">Vishnu Sreekumar</a><br>
+<img style="vertical-align:middle" src="blair.jpg" width="20%" height="20%"> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/blair-lehman-bb043b11" target="_blank">Blair Lehman</a><br>
+<img style="vertical-align:middle" src="carlos.jpg" width="20%" height="20%"> &nbsp;&nbsp;<a href="http://www.carlosmontemayor.org/" target="_blank">Carlos Montemayor</a><br>
+<img style="vertical-align:middle" src="aida.jpg" width="20%" height="20%"> &nbsp;&nbsp;<a href="http://www.aidanematzadeh.me/" target="_blank">Aida Nematzadeh</a><br>
+<img style="vertical-align:middle" src="vishnu.jpg" width="20%" height="20%"> &nbsp;&nbsp;<a href="https://www.iiit.ac.in/people/faculty/Vishnusreekumar/" target="_blank">Vishnu Sreekumar</a><br>
 
 ## Recording
 
